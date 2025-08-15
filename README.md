@@ -1,46 +1,52 @@
-<!-- ROYAL PROFILE README for Prince Mandivhei (Mr Sean) -->
+<!-- Supercharged Profile README for Mr Sean -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=36&duration=4000&color=FFD700&center=true&vCenter=true&lines=Welcome;To+my+domain;Hope+you+like+my+code;Enjoy✨" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=4000&color=00F7FF&center=true&vCenter=true&lines=Hey+there+👋;Welcome;to+Mr+Sean's+World+🌍;Coding+Dreams;Into+Reality+💡" alt="Typing SVG">
 </h1>
 
+<!-- Animated Banner -->
 <p align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="400" alt="Royal coding animation">
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="400" alt="Coder at work">
 </p>
 
 ---
 
-## 👑 About the Monarch
-- **Name:** Prince Mandivhei  
-- **Alias:** Mr Sean  
-- **Crown Jewel Project:** [Uruma MD](#) — a WhatsApp chatbot in the making 🤖  
-- **Reign Began:** 2025 (New GitHub user, already building empires)  
-- **Mission:** To forge unforgettable digital creations that echo through time
-
----
-
-## 🛡 Royal Contact Scroll
-- 📧 **Email:** shxwnp@outlook.com  
-- 📱 **WhatsApp:** [+263711745298](https://wa.me/263711745298)  
-
----
-
-## ⚔️ Tech Arsenal
+<!-- Profile Badges -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,nodejs,react,rust,html,css,docker,git,github,mongodb" />
+  <img src="https://img.shields.io/github/followers/MrSean001?label=Followers&style=for-the-badge&color=brightgreen" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/MrSean001?label=Stars&style=for-the-badge&color=yellow" alt="Stars"/>
+  <img src="https://komarev.com/ghpvc/?username=MrSean001&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="Profile views"/>
 </p>
 
 ---
 
-## 📜 Royal Chronicle – Stats & Achievements
+## 🧩 About Me
+
+💡 *Code Artist & Digital Visionary*  
+🎯 Turning creativity into **impactful software**  
+⚡ Debugging at the **speed of caffeine**  
+
+---
+
+## ⚡ Tech Arsenal
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=MrSean001&theme=highcontrast&fire=FFD700&ring=FFD700&currStreakLabel=FFD700&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://skillicons.dev/icons?i=python,js,ts,react,vue,angular,rust,java,c,cpp,html,css,nodejs,mongodb,git,github,docker,kubernetes,aws,linux" />
 </p>
+
+---
+
+## 📊 GitHub Analytics
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MrSean001&show_icons=true&theme=tokyonight&title_color=FFD700&icon_color=FFD700&hide_border=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=MrSean001&theme=tokyonight_duo&hide_border=true" alt="GitHub Streak"/>
 </p>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrSean001&layout=compact&theme=tokyonight&title_color=FFD700&hide_border=true" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MrSean001&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrSean001&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </p>
 
 ---
@@ -48,19 +54,26 @@
 
 ---
 
-## 🎶 Music in the Great Hall
+## 🎵 Vibes While Coding
 [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/yourspotifyid)
 
 ---
 
-## 🌟 Featured Project
-### **Uruma MD – The WhatsApp Chatbot**
-> *“Where conversation meets automation.”*  
-- 🤖 Built to help, assist, and entertain in real time  
-- 🌐 Deployable across devices for maximum reach  
-- 🔧 Powered by Node.js, WhatsApp API, and your creativity  
 
 ---
 
-## 🗡 Words of the Crown
-<p align="center"><i>"May my code reign long, my ideas inspire, and my bugs fall swiftly."</i></p>
+## ✍️ Random Dev Quote
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
+</p>
+
+---
+
+## 🎯 Aim
+- 🚀 Building AI-driven creative tools
+- 🎨 Mixing design & code for immersive UX
+- 🔥 Open-source contributions that spark joy
+
+---
+
+<p align="center"><i>"Code is poetry — and my pen never runs out of ink."</i></p>
